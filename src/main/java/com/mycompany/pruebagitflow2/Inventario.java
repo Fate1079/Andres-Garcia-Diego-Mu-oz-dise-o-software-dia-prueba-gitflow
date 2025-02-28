@@ -10,12 +10,16 @@ package com.mycompany.pruebagitflow2;
  */
 public class Inventario {
 //metodos
+
     public void metodoA() {
         System.out.println("Ejecutando método A");
     }
 
     public void metodoB() {
- System.out.println("Ejecutando método B");
- }
+        System.out.println("Ejecutando método B");
+    }
 
+    public void metodoC() {
+        System.out.println("Ejecutando método C");
+    }
 }
